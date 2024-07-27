@@ -1,0 +1,20 @@
+{
+    "name": "Get Spotify Lyrics",
+    "version": "1.0.0",
+    "description": "im broke cant pay for premium",
+    "manifest_version": 3,
+    "author": "Aamind Mandragora",
+    "permissions": [
+        "tabs",
+        "scripting",
+        "activeTab",
+        "sidePanel"
+    ],
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "side_panel": {
+        "default_path": "popup.html"
+    }
+  }
