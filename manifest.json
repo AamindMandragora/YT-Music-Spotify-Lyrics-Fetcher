@@ -1,7 +1,7 @@
 {
-    "name": "Get Spotify Lyrics",
+    "name": "Get YT Music/Spotify Lyrics",
     "version": "1.0.0",
-    "description": "im broke cant pay for premium",
+    "description": "A chrome extension displayed in the side panel that can fetch a song being played from Youtube Music or the web version of Spotify and display the lyrics, along with a Previous Song / Play or Pause / Next Song interface.",
     "manifest_version": 3,
     "author": "Aamind Mandragora",
     "permissions": [
