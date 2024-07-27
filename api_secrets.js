@@ -1,3 +1,0 @@
-export const client_id = "4sFhA0D5jrCkhrU9hPXRyvf4H32Fuo0MLUDaabgnN9aOrT6XqqR4NU8NAfKRf8lp";
-export const client_secret = "nvNJrP_U3U_2mb678iziNgRVBMsnkZgKIrR4TBzvZujzoWK3ak4zP2dqur2FYC8_Xwep97EeQQZ9DeXU6XOHCQ";
-export const client_access_token = "eMg4-wyYbrK_NCAOkxN25YS_fSW9K5K0gF1sX7rRGWBbmzqY-KVOSaCysa_uchip";
